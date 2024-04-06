@@ -1,7 +1,7 @@
 - 👋 Hi, I’m mikiyasalemayehu-mekonen
 - 👀 I’m interested in soliving real world problems by programming.
 - 🌱 I’m currently learning software engineering
-- 💞️ I'm looking to collaborate on Flutter mobile app and website development projects."
+- 💞️ I'm looking to collaborate on Flutter mobile app and website development projects.
 - 📫 How to reach me mikiyealem@gmail.com
 
 <!---
