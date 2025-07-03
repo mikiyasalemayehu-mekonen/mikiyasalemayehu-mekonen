@@ -4,13 +4,10 @@ I'm a backend enthusiast with a passion for solving real-world problems through 
 
 🌟 What I Do
 
-💻 Crafting Backend Magic: I build scalable APIs and systems using tools like Python (Django, Flask) 
-🌱 Learning & Growing: Deepening my software engineering skills, focusing on backend architecture and system design.
-🔧 Tech I Work With: Python, Django, REST APIs, PostgreSQL, Docker, Vagrant, Git.
-🤝 Open to Collab: Excited to work on backend web projects and innovative API solutions—let's build something cool!
-
-💡 My Mission
-Code is my tool to solve problems and create value. Whether it's streamlining data flow or powering a web app, I’m all about writing code that’s reliable and impactful.
+  💻 Crafting Backend Magic: I build scalable APIs and systems using tools like Python (Django, Flask) 
+  🌱 Learning & Growing: Deepening my software engineering skills, focusing on backend architecture and system design.
+  🔧 Tech I Work With: Python, Django, REST APIs, PostgreSQL, Docker, Vagrant, Git.
+  🤝 Open to Collab: Excited to work on backend web projects and innovative API solutions—let's build something cool!
 
 📫 Get in Touch
 Have a project idea or want to geek out about backend dev? Reach me at mikiyealem@gmail.com. Let’s code the future! 💪
