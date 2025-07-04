@@ -4,9 +4,12 @@ I'm a backend enthusiast with a passion for solving real-world problems through 
 
 🌟 What I Do
 
-  💻 Crafting Backend Magic: I build scalable APIs and systems using tools like Python (Django, Flask) 
+  💻 Crafting Backend Magic: I build scalable APIs and systems using tools like Python (Django,REST API ) 
+  
   🌱 Learning & Growing: Deepening my software engineering skills, focusing on backend architecture and system design.
+  
   🔧 Tech I Work With: Python, Django, REST APIs, PostgreSQL, Docker, Vagrant, Git.
+  
   🤝 Open to Collab: Excited to work on backend web projects and innovative API solutions—let's build something cool!
 
 📫 Get in Touch
