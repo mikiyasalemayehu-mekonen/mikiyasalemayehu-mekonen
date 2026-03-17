@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **AI AUTOMATION**
 
-- 👨‍💻 All of my projects are available at [https://miki-dev.vercel.app/#home](https://miki-dev.vercel.app/#home)
+- 👨‍💻 All of my projects are available at [https://miki-dev.vercel.app/#home](https://miki-dev.vercel.app)
 
 - 💬 Ask me about **React,NextJs,NodeJs,Django**
 
